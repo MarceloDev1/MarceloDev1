@@ -58,6 +58,13 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ### DevOps & Tools
 
+<div style="display: inline_block">
+  <img align="center" alt="Marcelo-Csharp" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Marcelo-Csharp" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg">
+  <img align="center" alt="Marcelo-Csharp" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+</div>
+
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
