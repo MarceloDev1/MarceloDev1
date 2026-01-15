@@ -16,6 +16,9 @@ I also create content and share knowledge on **software development, SaaS, and t
   <a href="https://github.com/MarceloDev1">
     <img src="https://img.shields.io/badge/GitHub-MarceloDev1-181717?style=for-the-badge&logo=github" />
   </a>  
+  <a href="https://www.linkedin.com/in/marcelo-rocha-dotnet">
+    <img src="https://img.shields.io/badge/LinkedIn-Marcelo%20Rocha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -39,7 +42,6 @@ I also create content and share knowledge on **software development, SaaS, and t
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
 
 ### Backend
 
@@ -53,13 +55,8 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="left">
-![Stats](https://github-readme-stats.vercel.app/api?username=MarceloDev1&show_icons=true&theme=tokyonight&cache_seconds=21600)
-</p>
 
