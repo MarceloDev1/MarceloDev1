@@ -60,8 +60,7 @@ I also create content and share knowledge on **software development, SaaS, and t
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=marcelodev1&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelodev1&layout=compact&theme=tokyonight" />
+![Stats](https://github-readme-stats.vercel.app/api?username=MarceloDev1&show_icons=true&theme=tokyonight&cache_seconds=21600)
 </p>
 
 
