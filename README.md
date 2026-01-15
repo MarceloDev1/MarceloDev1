@@ -63,8 +63,3 @@ I also create content and share knowledge on **software development, SaaS, and t
 ![Stats](https://github-readme-stats.vercel.app/api?username=MarceloDev1&show_icons=true&theme=tokyonight&cache_seconds=21600)
 </p>
 
-
----
-
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
