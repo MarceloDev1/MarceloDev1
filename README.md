@@ -12,10 +12,7 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 ## 🌐 Where to find me
 
-<p align="left">
-  <a href="https://github.com/MarceloDev1">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
-  </a>  
+<p align="left"> 
   <a href="https://www.linkedin.com/in/marcelo-rocha-dotnet">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -59,7 +56,9 @@ I also create content and share knowledge on **software development, SaaS, and t
 ### DevOps & Tools
 
 <div style="display: inline_block">
-  <img align="center" alt="Marcelo-Csharp" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Marcelo-Docker" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Marcelo-Kubernetes" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg">
   <img align="center" alt="Marcelo-AWS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   <img align="center" alt="Marcelo-Azure" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+  <img align="center" alt="Marcelo-RabbitMQ" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg">
 </div>
